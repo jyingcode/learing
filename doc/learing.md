@@ -1,5 +1,6 @@
 ### JavaScript对象
-1. 数组对象：由 JavaScript 宿主环境提供的对象，它们的行为完全由宿主环境决定。
+1. 宿组对象：由 JavaScript 宿主环境提供的对象，它们的行为完全由宿主环境决定。
+* ducument history navigator location*
 2. 内置对象：由Javascript语言提供的对象
 - 固有对象：由标准规定，随着 JavaScript 运行时创建而自动创建的对象实例。
 - 原生对象：可以由用户通过 Array、RegExp 等内置构造器或者特殊语法创建的对象。
